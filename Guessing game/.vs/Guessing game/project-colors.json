@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "388a18d6-336c-40cc-ac46-4fd634079266": {
+      "ProjectGuid": "388a18d6-336c-40cc-ac46-4fd634079266",
+      "DisplayName": "Guessing game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

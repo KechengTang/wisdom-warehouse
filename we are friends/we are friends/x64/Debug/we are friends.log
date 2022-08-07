@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\M\Desktop\wisdom-warehouse\we are friends\we are friends\test.c(6,8): warning C4013: “system”未定义；假设外部返回 int
+C:\Users\M\Desktop\wisdom-warehouse\we are friends\we are friends\test.c(13,13): warning C4013: “strcmp”未定义；假设外部返回 int
+  we are friends.vcxproj -> C:\Users\M\Desktop\wisdom-warehouse\we are friends\x64\Debug\we are friends.exe

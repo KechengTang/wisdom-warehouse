@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\M\Desktop\C\2022 winter code\test_3_5\test_3_5\test.c(26,14): warning C4047: “函数”:“int *”与“int [3][3]”的间接级别不同
+C:\Users\M\Desktop\C\2022 winter code\test_3_5\test_3_5\test.c(26,11): warning C4024: “find”: 形参和实参 1 的类型不同
+  test_3_5.vcxproj -> C:\Users\M\Desktop\C\2022 winter code\test_3_5\x64\Debug\test_3_5.exe

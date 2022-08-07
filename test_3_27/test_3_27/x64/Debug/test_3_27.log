@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\M\Desktop\C\2022 winter code\test_3_27\test_3_27\test.c(94,12): warning C4090: “=”: 不同的“const”限定符
+C:\Users\M\Desktop\C\2022 winter code\test_3_27\test_3_27\test.c(87,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\M\Desktop\C\2022 winter code\test_3_27\test_3_27\test.c(88,1): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\M\Desktop\C\2022 winter code\test_3_27\test_3_27\test.c(90,1): warning C4090: “初始化”: 不同的“const”限定符
+  test_3_27.vcxproj -> C:\Users\M\Desktop\C\2022 winter code\test_3_27\x64\Debug\test_3_27.exe

@@ -1,0 +1,4 @@
+﻿  contact.c
+C:\Users\M\Desktop\C\2022 winter code\Contact\Contact\contact.c(265,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\M\Desktop\C\2022 winter code\Contact\Contact\contact.c(265,6): warning C4101: “i”: 未引用的局部变量
+  Contact.vcxproj -> C:\Users\M\Desktop\C\2022 winter code\Contact\x64\Debug\Contact.exe
